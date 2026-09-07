@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geoagro-recommender"
+version = "1.0.0"
+description = "Recomendador acadêmico georreferenciado para associações de produtores"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Rodrigo Rangel Goes e Silva"},
+  {name = "Danilo Silveira da Silva"},
+  {name = "Nikolas Negrão Pessoa"},
+]
+dependencies = []
+
+[project.optional-dependencies]
+map = ["folium>=0.16,<1"]
+dev = []
+
+[project.scripts]
+geoagro = "geoagro.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

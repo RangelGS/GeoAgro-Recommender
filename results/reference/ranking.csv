@@ -1,0 +1,7 @@
+position,association_id,acronym,association,locality,distance_km,seasonal_products,distance_score,seasonal_score,total_score
+1,4,ASPAF,Associação dos Produtores da Agricultura Familiar,Guará,10.586,1,0,0,0
+2,9,ASTRAF,Associação dos Trabalhadores Rurais da Agricultura Familiar do Assentamento Chapadinha,Guará,10.586,1,0,0,0
+3,7,ASPROC,Associação dos Produtores Rurais Orgânicos e Convencionais do Distrito Federal e Entorno,Paranoá,11.215,1,1,0,1
+4,13,Coopebraz,Cooperativa Agropecuária da Região de Brazlândia,Taguatinga,19.106,1,5,0,5
+5,16,Cootaquara,Cooperativa Agrícola da Região de Planaltina,Ceilândia,23.871,1,7,0,7
+6,3,AMISTA,"Associação Mista dos Agricultores Familiares, Orgânicos e Produtores Rurais do DF e Entorno",Santa Maria,28.467,1,8,0,8
